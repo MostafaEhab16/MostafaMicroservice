@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/MostafaEhab16/MostafaMicroservice.svg?style=svg)](https://app.circleci.com/pipelines/github/MostafaEhab16/MostafaMicroservice)
 
 ## Project Overview
 
