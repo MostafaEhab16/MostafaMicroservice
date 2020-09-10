@@ -6,13 +6,13 @@ using `sklearn` model that has been trained to predict housing prices in Boston 
 
 ### Project Goals
 
-* Test your project code using linting
-* Complete a Dockerfile to containerize this application
-* Deploy your containerized application using Docker and make a prediction
+* Testing the project code using linting
+* Completing a Dockerfile to containerize this application
+* Deploying your containerized application using Docker and make a prediction
 * Improve the log statements in the source code for this application
-* Configure Kubernetes and create a Kubernetes cluster
-* Deploy a container using Kubernetes and make a prediction
-* Upload a complete Github repo with CircleCI to indicate that your code has been tested
+* Configuring Kubernetes and create a Kubernetes cluster
+* Deploying a container using Kubernetes and make a prediction
+* Uploading a complete Github repo with CircleCI to indicate that the code has been tested
 
 ## Setup the Environment
 
